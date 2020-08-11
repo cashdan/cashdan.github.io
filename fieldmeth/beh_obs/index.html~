@@ -1,0 +1,61 @@
+<HTML>
+<HEAD>
+<TITLE>Anthro 5163: Oral Histories
+</TITLE>
+<style type="text/css">
+  body { color: Black; background:white font-family: arial ;
+margin-left: 15%; margin-right: 15%;} 
+h1 { text-align: center; margin-top: 2em; margin-bottom: 2em; color: darkred}
+h2 { text-align: center; color: darkred}
+A:link {text-decoration: none; }
+A:visited {text-decoration: none; }
+A:active {text-decoration: none}
+A:hover {text-decoration: underline;color:brown; }
+</style>
+
+</HEAD>
+<BODY>
+<a href="../index.html">Back to Course Homepage</a>
+
+<h1> Systematic Behavior Observation Exercise </h1> 
+
+This study will examine COVID-related behavior in outdoor public
+spaces (e.g., people as they enter or leave public establishments).
+Stay a safe distance from the people you observe.  The details of this
+assignment will be worked out collectively, based on your informal
+observations, and the hypotheses and variables the class decides to
+address.  This page will be updated accordingly.  Plan on doing an
+hour of observation total (it need not be continuous).
+<p>
+ The week following the observation itself, there are two assignments:
+<ol>
+<li>  Code the data, in the format we decide on in class, and enter the data on a shared google doc.
+<li>   Critique the observation exercise.
+</ol>
+<h2> Coding the data </h2>
+
+Code the data you collected last week using the code (data dictionary) we developed in
+class (this page will be updated with a link to our code).
+Enter the data directly on the google spreadsheet. You will
+receive an email invitation (let me know if you can’t access
+it).
+<p>
+  Each row on the spreadsheet is an observation, and each column is a variable.  The
+column labels correspond to the boldfaced short variable name on our code (data dictionary).
+<p>
+“Missing values” are when you don’t have the information for some
+reason. Indicate missing values with a period (.) rather than a blank
+space or NA (this is arbitrary, but convenient for me). Remember that zero
+is a number, so should never be used to indicate missing values.  
+<p>
+You will probably find some problems with this
+code—behavior that is hard to categorize, categories that are
+not mutually-exclusive, etc. But it should be serviceable. Do your best and email if
+you have questions.
+</ol>
+
+<h2> Critique our observational study </h2>
+
+We can regard this as a pilot, and so should expect some problems.  
+Submit a brief critique of our study (max 500 words). What did we do right/wrong? How might it be
+done better?
